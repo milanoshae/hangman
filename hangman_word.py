@@ -1,0 +1,25 @@
+random_english_words = [
+    "apple", "banana", "cherry", "dog", "elephant", "fox", "grape", "horse",
+    "ice cream", "jazz", "kangaroo", "lemon", "monkey", "napkin", "orange", "penguin",
+    "quilt", "rabbit", "strawberry", "tiger", "umbrella", "violin", "watermelon", "xylophone",
+    "zebra", "apricot", "blueberry", "cheese", "dolphin", "elephant", "flamingo", "giraffe",
+    "hamburger", "iguana", "jellyfish", "kiwi", "lemur", "mango", "narwhal", "octopus",
+    "peach", "quokka", "raccoon", "squirrel", "toucan", "uakari", "vulture", "walrus", "x-ray",
+    "yak", "zeppelin", "avocado", "broccoli", "carrot", "dinosaur", "eggplant", "flute", "guitar",
+    "hedgehog", "insect", "jackal", "koala", "lizard", "mushroom", "newt", "otter", "peacock",
+    "quail", "rhinoceros", "scorpion", "turtle", "unicorn", "vampire", "walnut", "xylophone",
+    "yogurt", "zeppelin", "almond", "bluebell", "caterpillar", "dandelion", "elephant", "falcon",
+    "grapefruit", "honeydew", "iguana", "jellybean", "kangaroo", "leopard", "marmot", "nectarine",
+    "ostrich", "panda", "quokka", "rattlesnake", "starfish", "tulip", "urchin", "violet", "weasel",
+    "xiphias", "yak", "zebra", "alligator", "butterfly", "cactus", "dolphin", "elephant", "flamingo",
+    "gazelle", "hedgehog", "iguana", "jaguar", "koala", "lemur", "meerkat", "narwhal", "octopus",
+    "panda", "quokka", "rabbit", "sloth", "tiger", "unicorn", "vulture", "wombat", "x-ray",
+    "yak", "zebra", "alpaca", "bison", "chameleon", "dolphin", "elephant", "flamingo", "gorilla",
+    "hedgehog", "impala", "jellyfish", "kangaroo", "lemur", "mongoose", "nighthawk", "octopus",
+    "panda", "quokka", "rhinoceros", "salamander", "toucan", "urchin", "vampire", "wallaby", "x-ray",
+    "yak", "zebra", "anteater", "bat", "cheetah", "dolphin", "elephant", "flamingo", "giraffe",
+    "hedgehog", "iguana", "jaguar", "koala", "lemur", "mongoose", "narwhal", "octopus", "panda",
+    "quokka", "rhinoceros", "salamander", "toucan", "urchin", "vulture", "walrus", "x-ray", "yak",
+    "zebra"
+]
+
